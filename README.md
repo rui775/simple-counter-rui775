@@ -1,4 +1,4 @@
-#### Hello World with React boilerplate
+#### React time counter
 
 Start coding a react application
 
